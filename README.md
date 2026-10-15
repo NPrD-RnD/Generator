@@ -21,3 +21,6 @@ RM Cost Simulation: Edit P Minor di baris P Minor dapat mengganti kode dan deskr
 Kartu versi dalam folder RM Cost Simulation menampilkan RM Cost per kg sebagai pengganti catatan. Nilai mengikuti perhitungan versi, termasuk yield dan sumber harga; data yang belum lengkap ditandai. Catatan asli tetap tersimpan.
 
 Ambil RM Cost pada proyek: sumber dikelompokkan per produk/proyek, dengan versi dan RM Cost per kg di dalam kelompok yang bisa dibuka/ditutup. Pencarian tersedia; review dan penerapan formula tetap sama.
+
+
+Halaman utama menyediakan tombol **Unduh Panduan PDF**. Panduan ringkas 4 halaman tertanam di HTML sehingga dapat diunduh saat offline.
