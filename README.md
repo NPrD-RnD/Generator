@@ -1,3 +1,3 @@
-# NPrD Generator Hub v152
+# NPrD Generator Hub v153
 
-Upload `index.html` dan `.nojekyll` ke root GitHub Pages. Versi ini menyediakan pencadangan dan pemulihan seluruh generator dari laman utama.
+Perbaikan scroll modal penambahan proyek pada Monthly Review Generator.
