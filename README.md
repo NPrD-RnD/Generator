@@ -1,3 +1,3 @@
-# NPrD Generator Hub v153
+# NPrD Generator Hub v156
 
-Perbaikan scroll modal penambahan proyek pada Monthly Review Generator.
+Perbaikan stabil RM Cost dan tombol langsung Tambah ke bahan tersimpan.
