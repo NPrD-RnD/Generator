@@ -23,3 +23,7 @@ Contoh alamat: https://USERNAME.github.io/NAMA-REPOSITORY/
 Data kerja disimpan di browser/perangkat, bukan di repository GitHub. Data tidak tersinkron otomatis antarperangkat. Untuk memindahkan data dari HTML lokal ke situs, buka aplikasi lama dan pilih Cadangkan semua, kemudian buka situs GitHub Pages pada browser dan pilih Pulihkan semua menggunakan file cadangan tersebut. Pemulihan mengganti data yang sudah ada di tujuan. Simpan file cadangan secara terpisah.
 
 Sumber resmi: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+
+## v174 — DLK Generator
+Menu DLK berisi Report Trial, Realisasi Dinas, dan Rancob. Rancob memakai data divisi yang sama dengan versi sebelumnya dan dapat mengambil sumber RM Cost yang sudah ada.
